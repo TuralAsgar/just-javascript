@@ -24,7 +24,7 @@ In this module, we’ll take a closer look at the JavaScript world and the value
 
 _Is the JavaScript world even real_?
 
-## The JavaScript Simulation
+# The JavaScript Simulation
 
 When I ask the JavaScript world a question, it answers me with a value. I certainly don’t come up with all these values by myself. The variables, the wires, the values — they all populate my world. When I connect a variable’s wire to a value, I can physically feel doing it. How could it not be real?
 
