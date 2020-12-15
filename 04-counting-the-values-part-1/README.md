@@ -62,7 +62,7 @@ I shrug.
 
 ![Are we in simulation too?](./simulation.gif)
 
-## Counting the Values
+# Counting the Values
 
 [Count von Count](https://www.youtube.com/playlist?list=PL0X42Qp5X1DMzE2E6I5baBXu5HwAhuK_h) was my childhood role model. If you’re not familiar with him from the Sesame Street, his favorite pastime is counting things. Today, Count von Count will join us in counting every value in the JavaScript universe.
 
