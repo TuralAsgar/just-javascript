@@ -321,7 +321,7 @@ _My universe is full of wires._
 # Exercises
 This module also has exercises for you to practice!
 
-[__Click here__ to solidify this mental model with a few short exercises.](https://eggheadio.typeform.com/to/RWJg3m?email=dena.denacho@gmail.com&ck_subscriber_id=810733667)
+[__Click here__ to solidify this mental model with a few short exercises.](https://eggheadio.typeform.com/to/RWJg3m)
 
 
 __Don’t skip them!__
