@@ -173,7 +173,7 @@ Now it’s time to put what we learned to action.
 
 Even if you already have a decent amount of experience with JavaScript don't skip the exercise questions! I personally learned some of these things only a few years ago.
 
-[Click here to answer these questions](https://eggheadio.typeform.com/to/PLyTKB?email=dena.denacho@gmail.com&ck_subscriber_id=810733667) and provide feedback about this module.
+[Click here to answer these questions](https://eggheadio.typeform.com/to/PLyTKB) and provide feedback about this module.
 
 Next up we will explore the Primitive Values in more detail. We look at what these different primitive types like numbers and Null have in common, and learn a thing or two about what equality means in JavaScript.
 
