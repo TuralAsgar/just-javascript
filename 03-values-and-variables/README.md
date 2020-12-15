@@ -1,3 +1,14 @@
+Let’s review the answers to the exercises from The JavaScript Universe module:
+
+- __typeof(value) === "date" is always false__. This is because "date" is not one of the possible typeof results. 
+Dates are not one of the primitive types (unlike numbers and booleans), and they are also not functions. So typeof for a date is always going to be "object".
+
+- __The value that lies about its type is null__. Concretely, typeof(null) is "object" even though null is [not](https://www.ecma-international.org/ecma-262/10.0/?ck_subscriber_id=703698424#sec-terms-and-definitions-null-type) an object. Null is a primitive value. (Here’s a [historical note](https://2ality.com/2013/10/typeof-null.html) on how that happened.) This is a very old bug in JavaScript. It cannot be fixed because it would break existing websites. You might ask: isn’t typeof([]) === "object" a bug? No. Arrays aren’t primitive, so they are objects! Unlike null, they’re telling the truth.
+
+- __typeof(typeof(value)) is always "string"__. Here’s why. We know typeof(value) always gives us one of the predetermined strings: "undefined", "boolean", "number", and so on. Predetermined strings. So typeof any of them is "string". Because they’re strings!
+
+Now let’s get going.
+
 We’ll kick off this module with a little code snippet.
 
 ```js 
@@ -36,7 +47,7 @@ Don’t scroll further until you have finished writing.
 ...
 
 
-Here’s the answer. This code will either print "yikes" or throw an error depending on whether you are in [strict mode](https://mail.google.com/mail/u/1/#search/dan+abramov/FMfcgxwHMsQfFvqWkKnlbgDsWZWCBjfq). __It will never print "likes".__
+Here’s the answer. This code will either print "yikes" or throw an error depending on whether you are in [strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode?ck_subscriber_id=703698424). __It will never print "likes".__
 
 Yikes.
 
