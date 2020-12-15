@@ -1,5 +1,3 @@
-## Contents
-
 - [Mental Model](./01-mental-model)
 - [The JavaScript Universe](./02-the-javascript-universe)
 - [Values and Variables](./03-values-and-variables)
