@@ -87,4 +87,4 @@ Don’t worry if you can’t find the bug at all. This means you’ll get the mo
 
 In the next module, we'll start building mental models for some of the most fundamental JavaScript concepts — values and variables.
 
-Please [click here to send feedback and complete a short survey](https://eggheadio.typeform.com/to/a8hLh5?) about this module.
+Please [click here to send feedback and complete a short survey](https://eggheadio.typeform.com/to/a8hLh5) about this module.
